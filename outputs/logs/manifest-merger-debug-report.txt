@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\481fa3d2c4ff09734d5b4dbf6fdfda91\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3772251c124a7039c8274d139a0a3177\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b8727b247c418d3d1e42528b2e946e35\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\394920a1428546922a178ba3c31d7fee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f36dec6fcbe11c3ea0ee89ec8f43c223\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2d483fe018188ce8a876122451eb60cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b6d0e743f2042f57c134f53e5e10c95b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f9be00136ce1c334c7fe53e426b317ac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f498c87a4b8d129beabb401afb518ab4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c6eaf1dd1818bf9899ba557fd653de2c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0a37a495f42ccdbd4d3a130e095fbfb1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2c96e5cca10e041662a68223fec7ce95\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:4:1-62
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:4:18-60
+application
+ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3772251c124a7039c8274d139a0a3177\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3772251c124a7039c8274d139a0a3177\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.hp.emailmanager.MainActivity
+ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\481fa3d2c4ff09734d5b4dbf6fdfda91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\481fa3d2c4ff09734d5b4dbf6fdfda91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3772251c124a7039c8274d139a0a3177\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3772251c124a7039c8274d139a0a3177\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b8727b247c418d3d1e42528b2e946e35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b8727b247c418d3d1e42528b2e946e35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\394920a1428546922a178ba3c31d7fee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\394920a1428546922a178ba3c31d7fee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f36dec6fcbe11c3ea0ee89ec8f43c223\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f36dec6fcbe11c3ea0ee89ec8f43c223\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2d483fe018188ce8a876122451eb60cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2d483fe018188ce8a876122451eb60cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b6d0e743f2042f57c134f53e5e10c95b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b6d0e743f2042f57c134f53e5e10c95b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f9be00136ce1c334c7fe53e426b317ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f9be00136ce1c334c7fe53e426b317ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f498c87a4b8d129beabb401afb518ab4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f498c87a4b8d129beabb401afb518ab4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c6eaf1dd1818bf9899ba557fd653de2c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c6eaf1dd1818bf9899ba557fd653de2c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0a37a495f42ccdbd4d3a130e095fbfb1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0a37a495f42ccdbd4d3a130e095fbfb1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2c96e5cca10e041662a68223fec7ce95\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2c96e5cca10e041662a68223fec7ce95\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hp\AndroidStudioProjects\EmailManager\app\src\main\AndroidManifest.xml
